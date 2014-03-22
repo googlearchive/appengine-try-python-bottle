@@ -1,6 +1,6 @@
 {
-  "template_name": "Try Google App Engine for Python, Bottle",
-  "template_description": "Starter code for a Google App Engine app in Python using the Bottle framework.",
+  "project_name": "Hello World, Python with Bottle",
+  "project_description": "Starter code for a Google App Engine app in Python using the Bottle framework.",
   "show_files": [
     "main.py",
     "app.yaml",
