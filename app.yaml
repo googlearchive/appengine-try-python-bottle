@@ -6,4 +6,4 @@ threadsafe: yes
 
 handlers:
 - url: .*
-  script: main.bottle
+  script: main.app
